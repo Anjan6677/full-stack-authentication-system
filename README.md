@@ -8,8 +8,6 @@ This long video was designed to give you an indepth understanding about latest n
 - mongodb
 - mailtrap
 
-![Course Image](./nextjs.png)
-
 ---
 
 ## Getting Started
